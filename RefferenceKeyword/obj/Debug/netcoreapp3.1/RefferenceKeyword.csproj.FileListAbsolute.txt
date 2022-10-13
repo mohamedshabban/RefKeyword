@@ -1,0 +1,14 @@
+D:\C#9\RefferenceKeyword\RefferenceKeyword\bin\Debug\netcoreapp3.1\RefferenceKeyword.exe
+D:\C#9\RefferenceKeyword\RefferenceKeyword\bin\Debug\netcoreapp3.1\RefferenceKeyword.deps.json
+D:\C#9\RefferenceKeyword\RefferenceKeyword\bin\Debug\netcoreapp3.1\RefferenceKeyword.runtimeconfig.json
+D:\C#9\RefferenceKeyword\RefferenceKeyword\bin\Debug\netcoreapp3.1\RefferenceKeyword.runtimeconfig.dev.json
+D:\C#9\RefferenceKeyword\RefferenceKeyword\bin\Debug\netcoreapp3.1\RefferenceKeyword.dll
+D:\C#9\RefferenceKeyword\RefferenceKeyword\bin\Debug\netcoreapp3.1\RefferenceKeyword.pdb
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.csproj.AssemblyReference.cache
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.AssemblyInfoInputs.cache
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.AssemblyInfo.cs
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.csproj.CoreCompileInputs.cache
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.dll
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.pdb
+D:\C#9\RefferenceKeyword\RefferenceKeyword\obj\Debug\netcoreapp3.1\RefferenceKeyword.genruntimeconfig.cache
