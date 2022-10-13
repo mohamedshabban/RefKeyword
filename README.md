@@ -7,23 +7,3 @@ To define a method signature to return a reference of the variable.
 To declare a struct as a ref struct
 As local reference
 
-internal class Program
-    {
-        static void Main(string[] args)
-        {
-            int number = 0;
-            AddNumber(number);
-            Console.WriteLine(number)///0;
-
-            AddNumber(ref number);
-            Console.WriteLine(number)///1;
-        }
-        public static void AddNumber(int number)
-        {
-            number++;
-        }
-        public static void AddNumber(ref int number)
-        {
-            number++;
-        }
-    }
